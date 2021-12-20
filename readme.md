@@ -1,7 +1,6 @@
 # Для входа в приложение:
-* login: ritavoznenko@gmail.com 
-* password: 1234567
-
+* login: test_forCV@gmail.com | password: 123
+* либо зарегистрруйте нового пользователя в системе по ссылке https://ajax.test-danit.com/front-pages/cards-register.html 
 
 # Список использованных технологий
 * HTML, HTML5
